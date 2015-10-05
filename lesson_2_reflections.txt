@@ -1,3 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 --- it created .git folder.  No commit has created.  I guess I am imagining something like creating an empty box in which files are stored in the future.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+--- I think the staging area makes sure what files should be committed.  This will make sure you don't put unnecessary files or forget to put necessary files.
+
