@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+--- it created .git folder.  No commit has created.  I guess I am imagining something like creating an empty box in which files are stored in the future.
