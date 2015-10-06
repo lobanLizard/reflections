@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+--- If I am mainly working in a remote repository and not worry about copying a locally(?) Maybe(?)  Right now,
+I feel that it is better to work locally in my computer and then push it to remote repository.
